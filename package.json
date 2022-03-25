@@ -1,0 +1,24 @@
+{
+  "name": "song-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronM2001/song-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronM2001/song-db/issues"
+  },
+  "homepage": "https://github.com/AaronM2001/song-db#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2",
+    "mysql": "^2.18.1"
+  }
+}
